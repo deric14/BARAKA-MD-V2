@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/github/forks/Barakabega/BARAKA-MD-V2?label=Fork&style=social">
   <p align="left"> 
   <a href="https://github.com/Barakabega/BARAKA-MD-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/ibrahimaitech/BARAKA-XMD?style=social">
+    <img src="https://img.shields.io/github/stars/Barakabega/BARAKA-MD-V2?style=social">
       
 [![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
   
