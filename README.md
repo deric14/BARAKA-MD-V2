@@ -41,8 +41,6 @@
 
 
 
-
-
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
 | Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
