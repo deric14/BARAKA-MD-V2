@@ -24,10 +24,10 @@
 
 
    <p align="left">
-  <a href="https://github.com/ibrahimaitech/BARAKA-XMD/fork">
-    <img src="https://img.shields.io/github/forks/ibrahimaitech/BARAKA-XMD?label=Fork&style=social">
+  <a href="https://github.com/Barakabega/BARAKA-MD-V2/fork">
+    <img src="https://img.shields.io/github/forks/Barakabega/BARAKA-MD-V2?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/ibrahimaitech/BARAKA-XMD/stargazers">
+  <a href="https://github.com/Barakabega/BARAKA-MD-V2/stargazers">
     <img src="https://img.shields.io/github/stars/ibrahimaitech/BARAKA-XMD?style=social">
       
 [![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
@@ -72,7 +72,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/ibrahimaitech/BARAKA-XMD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Barakabega/BARAKA-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Get session id by (SCANNING QR1)
     <br>
