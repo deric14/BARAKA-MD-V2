@@ -188,3 +188,5 @@
 
 
 
+## 🏷️ `MAIN DEV` 
+<a href="https://github.com/Barakabega"><img src="https://github.com/Barakabega" width="250" height="250" alt="Barakabega"/></a>
