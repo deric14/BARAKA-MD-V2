@@ -152,7 +152,7 @@
 ## 🌴 `MAIN-DEV` 
 <a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim"/></a>
 
-## 🌴 `CONTRBUTER` 
+## 🌴 `CONTRIBUTOR` 
 <a href="https://github.com/begajunior"><img src="https://github.com/begajunior.png" width="250" height="250" alt="bega"/></a>
 
 
