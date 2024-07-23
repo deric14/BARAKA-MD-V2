@@ -157,26 +157,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=green)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
-
-
-<a aria-label="Join our chats" href="https://wa.me/255762190568?text=𝐇𝐞𝐲 𝐦𝐫...𝐛𝐚𝐫𝐚𝐤𝐚 𝐢 𝐧𝐞𝐞𝐝 𝐲𝐨𝐮𝐫 𝐡𝐞𝐥𝐩 🙏" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
-</p>
-
-
-
 
 ### `𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐆𝐨𝐝`🙏
 - Baraka-Bega
 - Ibrahim-Adams
 - Who Helping Me
 - Who Using This Bot
-- Support Me By Follow On My
-- <a href="https://wa.com/channel/0029Vail87sIyPtQoZ2egl1h" target="_blank">
-    <img alt="wa Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
-  </a>
-</p>
+- Support Me By Follow On My [Ig account][https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ==]
+
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
