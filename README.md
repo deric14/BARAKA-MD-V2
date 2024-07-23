@@ -203,8 +203,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 📛 `OWNER` 
-<a href="https://github.com/Barakabega"><img src="https://github.com/Barakabega.png" width="250" height="250" alt="Baraka
+## 📛 `OWNER`
+<a href="https://github.com/Barakabega"><img src="https://github.com/Barakabega.png" width="250" height="250" alt="Baraka>
 
 ## 📛 `MAIN DEV` 
-<a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim 
+<a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim>
