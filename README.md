@@ -166,7 +166,7 @@
 - Support Me By Follow On My [WA_GROUP](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
 - Support Me By Follow On My [WA_CHANEL](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
 - Support Me By Follow On My [IG_ACCOUNT](https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ==)
-- To Talk To Me On WhatsApp   [WA_NUMBER](https://wa.me/+255762190568)
+- To Talk To Me On WhatsApp    [WA_NUMBER](https://wa.me/+255762190568)
 - Text My Brother On WhatsApp[WA_NUMBER](https://wa.me/+254710772666)
 
 
