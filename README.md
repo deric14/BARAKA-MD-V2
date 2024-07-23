@@ -30,9 +30,7 @@
   <a href="https://github.com/Barakabega/BARAKA-MD-V2/stargazers">
     <img src="https://img.shields.io/github/stars/Barakabega/BARAKA-MD-V2?style=social">
       
-[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
-  
-<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+
 
 
 ## `BOT FEATURES`
@@ -156,13 +154,13 @@
 
 
 
-[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
+[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=green)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
 
 
 
 
 <a aria-label="Join our chats" href="https://wa.me/255762190568?text=𝐇𝐞𝐲 𝐦𝐫...𝐛𝐚𝐫𝐚𝐤𝐚 𝐢 𝐧𝐞𝐞𝐝 𝐲𝐨𝐮𝐫 𝐡𝐞𝐥𝐩 🙏" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
 </p>
 
 
@@ -170,7 +168,7 @@
 
  
 <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
   </a>
 </p>
 
@@ -200,7 +198,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 🌴 `BOT-OWNER` 
+## 🌴 `BOT-OWNER`
 <a href="https://github.com/Barakabega"><img src="https://github.com/Barakabega.png" width="250" height="250" alt="Baraka"/></a>
 
 
