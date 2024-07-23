@@ -164,11 +164,6 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
 </p>
 
- 
-<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
-  </a>
-</p>
 
 
 
@@ -177,7 +172,10 @@
 - Ibrahim-Adams
 - Who Helping Me
 - Who Using This Bot
-- Support Me By Follow On My IG [IG Account](https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ==)
+- Support Me By Follow On My [Wa channel](<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
+  </a>
+</p>)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
