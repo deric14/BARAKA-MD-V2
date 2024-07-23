@@ -173,8 +173,8 @@
 - Who Helping Me
 - Who Using This Bot
 - Support Me By Follow On My
-     <a href="https://wa.com/channel/0029Vail87sIyPtQoZ2egl1h" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
+- <a href="https://wa.com/channel/0029Vail87sIyPtQoZ2egl1h" target="_blank">
+    <img alt="wa Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>
 </p>
 
