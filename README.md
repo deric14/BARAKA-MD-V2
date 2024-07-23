@@ -52,15 +52,7 @@
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
 | Auto/View once commands     | remove photo and video from lock            | ✅           | 3.0    |
 
-
-
-
-
-
-
-
-
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
@@ -77,9 +69,6 @@
 2. Get session id by (PAIRING CODE2)
     <br>
 <a href='https://baraka-md-code1-e639cae55737.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-
-
 
 
 
@@ -153,43 +142,6 @@
 <a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
 
 
-
-[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=green)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
-
-
-
-
-<a aria-label="Join our chats" href="https://wa.me/255762190568?text=𝐇𝐞𝐲 𝐦𝐫...𝐛𝐚𝐫𝐚𝐤𝐚 𝐢 𝐧𝐞𝐞𝐝 𝐲𝐨𝐮𝐫 𝐡𝐞𝐥𝐩 🙏" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
-</p>
-
-
-
-
- 
-<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
-  </a>
-</p>
-
-
-
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-### `𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐆𝐨𝐝`🙏
-- Baraka-Bega
-- Ibrahim-Adams
-- Who Helping Me
-- Who Using This Bot
-- Support Me By Follow On My IG [IG Account](https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ==)
-
-
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -205,14 +157,30 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
+[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=green)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
+
+
+<a aria-label="Join our chats" href="https://wa.me/255762190568?text=𝐇𝐞𝐲 𝐦𝐫...𝐛𝐚𝐫𝐚𝐤𝐚 𝐢 𝐧𝐞𝐞𝐝 𝐲𝐨𝐮𝐫 𝐡𝐞𝐥𝐩 🙏" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
+</p>
+
+ 
+<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
+  </a>
+</p>
 
 
 
+### `𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐆𝐨𝐝`🙏
+- Baraka-Bega
+- Ibrahim-Adams
+- Who Helping Me
+- Who Using This Bot
+- Support Me By Follow On My IG [IG Account](https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ==)
 
 
-
-
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
