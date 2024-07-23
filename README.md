@@ -163,7 +163,7 @@
 - Ibrahim-Adams
 - Who Helping Me
 - Who Using This Bot
-- Support Me By Follow On My [Ig account][https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ==]
+- Support Me By Follow On My [Ig account]`[https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ==]`
 
 
 
