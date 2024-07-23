@@ -163,10 +163,12 @@
 - Ibrahim-Adams
 - Who Helping Me
 - Who Using This Bot
-- Support Me By Follow On My [IG Account](https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ==)
-- Support Me By Follow On My [WA Channel](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
 - Support Me By Follow On My [WA Group](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
-- Talk To Me On WhatsApp [WA Number](https://wa.me/+255762190568)
+- Support Me By Follow On My [WA Channel](https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h)
+- Support Me By Follow On My [IG Account](https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ==)
+- To Talk To Me On WhatsApp [WA Number](https://wa.me/+255762190568)
+
+
 
 
 
