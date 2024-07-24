@@ -4,7 +4,6 @@
 <p align="center">                                              𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕2 🍁
 
 
-
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h">
@@ -13,15 +12,13 @@
  
  
 
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+BARAKA-MD+MADE+IN+TANZANIA🇹🇿❤️🇹🇿+" alt="Typing SVG" /></a>
-
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## _`BARAKA-MD-V2 FEATURES`_
+
+## _`BARAKA-MD-V2 FEATURES`_ 🪶
 
 
 | Feature                          | Description                                             | Available    | Version    |
@@ -37,19 +34,22 @@
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
 | Auto/View once commands     | remove photo and video from lock            | ✅           | 3.0    |
 
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
+## _`INSTALLATION METHODS`_ 🛠
 
-## _`INSTALLATION METHODS`_
 
 1. Fork the repo
     <br>
 <a href='https://github.com/Barakabega/BARAKA-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
+
 2. Get session id by (SCANNING QR1)
     <br>
 <a href='https://baraka-md-code1-e639cae55737.herokuapp.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
 
 2. Get session id by (PAIRING CODE2)
     <br>
@@ -64,11 +64,9 @@
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
-
 2. Now Deploy
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Barakabega/BARAKA-MD-V3' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
 
 
 #### DEPLOY TO REPLIT
@@ -83,17 +81,16 @@
     <a href='https://repl.it/github/salmanytofficial/XLICON-V3-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
-
 #### DEPLOY TO RENDER
 
 1. If You don't have a account in Render. Create a account.
     <br>
 <a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
+
 2. Now Deploy
     <br>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
 
 
 #### DEPLOY TO RAILWAY
@@ -102,9 +99,11 @@
     <br>
 <a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
 
+
 2. Now Deploy
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
 
 #### DEPLOY TO OKTETO
 
@@ -112,15 +111,18 @@
     <br>
 <a href='https://www.okteto.com/pricing/?plan=SaaS' target="_blank"><img alt='Okteto' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
 
+
 2. Now Deploy
     <br>
 <a href='https://cloud.okteto.com/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
+
 
 #### DEPLOY TO COOLIFY
 
 1. If You don't have a account in Coolify. Create a account.
     <br>
 <a href='https://app.coolify.io/register' target="_blank"><img alt='Coolify' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
+
 
 2. Now Deploy
     <br>
@@ -137,9 +139,11 @@
 ## 🌴 `MAIN-DEV` 
 <a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim"/></a>
 
+## 🌴 `CONTRIBUTOR` 
+<a href="https://github.com/Begajunior"><img src="https://github.com/Begajunior.png" width="250" height="250" alt="Ibrahim"/></a>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 
 
 ### `𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐆𝐨𝐝`🙏
@@ -154,10 +158,4 @@
 - Text My Brother On WhatsApp[WA_NUMBER](https://wa.me/+254710772666)
 
 
-
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-
