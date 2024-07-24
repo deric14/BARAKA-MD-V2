@@ -144,9 +144,6 @@
 ## 🌴 *`MAIN-DEV`*
 <a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim"/></a>
 
-## 🌴 *`CONTRIBUTOR`* 
-<a href="https://github.com/Begajunior"><img src="https://github.com/Begajunior.png" width="250" height="250" alt="Bega"/></a>
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
