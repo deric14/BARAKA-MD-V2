@@ -128,19 +128,24 @@
     <br>
 <a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
 
+#### DEPLOY TO MONGENIUS
+
+9. If You don't have a account in Mongenius. Create a account.
+    <br>
+<a
+href='https://studio.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 🌴 `BOT-OWNER`
+## 🌴 *`BOT-OWNER`*
 <a href="https://github.com/Barakabega"><img src="https://github.com/Barakabega.png" width="250" height="250" alt="Baraka"/></a>
 
-
-## 🌴 `MAIN-DEV` 
+## 🌴 *`MAIN-DEV`*
 <a href="https://github.com/ibrahimaitech"><img src="https://github.com/ibrahimaitech.png" width="250" height="250" alt="Ibrahim"/></a>
 
-## 🌴 `CONTRIBUTOR` 
-<a href="https://github.com/begajunior"><img src="https://github.com/begajunior.png" width="250" height="250" alt="bega"/></a>
+## 🌴 *`CONTRIBUTOR`* 
+<a href="https://github.com/Begajunior"><img src="https://github.com/Begajunior.png" width="250" height="250" alt="Bega"/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
