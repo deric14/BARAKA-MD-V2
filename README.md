@@ -55,6 +55,10 @@
 <a href='https://baraka-md-code1-e639cae55737.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
+## ONRENDER SCANNER (GENERAL)
+
+- <a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 
 #### DEPLOY TO HEROKU 
 
