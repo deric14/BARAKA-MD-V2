@@ -55,7 +55,7 @@
 <a href='https://baraka-md-code1-e639cae55737.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
-## _`ONRENDER SCANNER`_ (GENERAL)
+## _ONRENDER SCANNER_ (GENERAL)
 
  <a href="https://render-session-scanner-by-Ibrahim-adams.onrender.com/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
@@ -63,7 +63,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## _`INSTALLATION METHODS`_
+## _`DEPLOYMENT METHODS`_ 🛠
 
 #### DEPLOY TO HEROKU 
 
@@ -87,7 +87,7 @@
 2. Now Deploy
     <br>
     <a href='https://repl.it/github/salmanytofficial/XLICON-V3-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
+    
 
 #### DEPLOY TO RENDER
 
@@ -145,7 +145,9 @@
 2. Now Deploy
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 ## 🌴 *`BOT-OWNER`*
 <a href="https://github.com/Barakabega"><img src="https://github.com/Barakabega.png" width="250" height="250" alt="Baraka"/></a>
