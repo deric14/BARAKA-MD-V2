@@ -21,6 +21,9 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+## _`BARAKA-MD-V2 FEATURES`_
+
+
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
 | Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
@@ -38,7 +41,7 @@
 
 
 
-## `INSTALLATION METHODS`🛠️
+## _`INSTALLATION METHODS`_
 
 1. Fork the repo
     <br>
