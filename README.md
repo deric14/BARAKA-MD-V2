@@ -33,8 +33,6 @@
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 3.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 3.0        |
 | Auto/View once commands     | remove photo and video from lock            | ✅           | 3.0    |
-
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -130,13 +128,14 @@
 
 #### DEPLOY TO MONGENIUS
 
-9. If You don't have a account in Mongenius. Create a account.
+1. If You don't have a account in Mongenius. Create a account.
     <br>
-<a
-href='https://studio.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+<a href='https://studio.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 
+2. Now Deploy
+    <br>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 
 ## 🌴 *`BOT-OWNER`*
 <a href="https://github.com/Barakabega"><img src="https://github.com/Barakabega.png" width="250" height="250" alt="Baraka"/></a>
