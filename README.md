@@ -57,7 +57,9 @@
 
 ## ONRENDER SCANNER (GENERAL)
 
-- <a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+ <a href="https://render-session-scanner-by-Baraka-bega.onrender.com/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 #### DEPLOY TO HEROKU 
