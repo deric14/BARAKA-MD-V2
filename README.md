@@ -37,7 +37,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## _`INSTALLATION METHODS`_ 🛠
+## _`SESSION ID SITE`_ 🛠
 
 
 1. Fork the repo
@@ -55,12 +55,15 @@
 <a href='https://baraka-md-code1-e639cae55737.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
-## ONRENDER SCANNER (GENERAL)
+## _`ONRENDER SCANNER`_ (GENERAL)
 
  <a href="https://render-session-scanner-by-Ibrahim-adams.onrender.com/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
+## _`INSTALLATION METHODS`_
 
 #### DEPLOY TO HEROKU 
 
