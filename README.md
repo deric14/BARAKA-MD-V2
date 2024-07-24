@@ -21,21 +21,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-
-
-   <p align="left">
-  <a href="https://github.com/Barakabega/BARAKA-MD-V2/fork">
-    <img src="https://img.shields.io/github/forks/Barakabega/BARAKA-MD-V2?label=Fork&style=social">
-  <p align="left"> 
-  <a href="https://github.com/Barakabega/BARAKA-MD-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/Barakabega/BARAKA-MD-V2?style=social">
-      
-
-
-## `BOT FEATURES`
-
-
-
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
 | Multi-Device Support             | Operate the bot on multiple devices simultaneously      | ✅           | 3.0        |
