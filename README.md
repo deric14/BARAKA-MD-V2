@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                              𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕2 🍁
+<p align="center">                                              𝐁𝐀𝐑𝐀𝐊𝐀-𝐌𝐃-𝐕2 
 
 
 </p>
@@ -37,7 +37,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## _`SESSION ID SITE`_ 🛠
+## _`SESSION ID SITE`_ 👇👇
 
 
 1. Fork the repo
